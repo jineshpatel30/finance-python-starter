@@ -1,0 +1,14 @@
+#python -m pip install --upgrade pip
+#python -m pip install -r requirements.txt
+notebook
+pandas
+numpy
+openpyxl
+matplotlib
+#scipy
+#statsmodels
+#seaboard
+#scikit-learn
+#plotly
+#tensorflow
+#torch

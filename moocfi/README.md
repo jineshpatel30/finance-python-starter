@@ -1,0 +1,1 @@
+# Solutions for all exercises of [MOOC.fi Python Course](https://programming-25.mooc.fi/all-exercises)
