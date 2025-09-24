@@ -6,7 +6,7 @@
 - Lists (basic operations)  
 - Functions (parameters, return values)  
 
-# Mini-projects completed:
+# mini-projects completed:
  
 **Interactive:**
 1. 📈 **Future Value Calculator** – calculates compounded portfolio growth  

@@ -1,12 +1,20 @@
-**Topics learned:**
+**Topics covered:**
 - Printing & variables
 - Arithmetic operations
 - Conditionals (if/else)
+- Loops (`for`, `while`)  
+- Nested loops  
+- Lists (basic operations)  
+- Functions (parameters, return values)  
 
-**Mini-projects completed:**
-1. 💰 **Savings Calculator** – simple tool to calculate monthly savings.
-2. 📈 **Budget Health Check** – checks if savings are >20% of income.
-3. 📊 **Portfolio Returns Calculator** – calculates portfolio return from asset weights.
+**Mini-projects completed:** 
+1. 📈 **Future Value Calculator** – calculates compounded portfolio growth  
+2. 💰 **Savings Simulation** – monthly savings + interest loop  
+3. 🏦 **Loan Repayment Schedule** – month-by-month principal & interest breakdown  
+4. 📊 **Portfolio Tracker (basic)** – computes value of a small portfolio using lists  
+5. 💱 **Currency Converter** – function to convert USD ↔ EUR  
+#Finance Dashboard
+** Combines all mini-projects in CLI based script for user interface
 
 ---
 
